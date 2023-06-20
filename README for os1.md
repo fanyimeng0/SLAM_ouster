@@ -1,6 +1,5 @@
 # SLAM_ouster
-# Ubuntu 20.04
-# ouster_os1
+ Ubuntu 20.04 ouster_os1
 
 Ouster provides two visual tools for ouster.
 
